@@ -1,0 +1,1 @@
+{"version":3,"file":"dbas-common.mjs","sources":["../../projects/common/src/public-api.ts","../../projects/common/src/dbas-common.ts"],"sourcesContent":["/*\n * Public API Surface of svg\n */\n\nexport const empty = 1;\n","/**\n * Generated bundle index. Do not edit.\n */\n\nexport * from './public-api';\n"],"names":[],"mappings":"AAAA;;AAEG;AAEI,MAAM,KAAK,GAAG;;ACJrB;;AAEG;;;;"}
